@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Samar157/leetcode_challenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Samar157/leetcode_challenge-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Samar157/leetcode_challenge-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Samar157/leetcode_challenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

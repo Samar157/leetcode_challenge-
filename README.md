@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Samar157/leetcode_challenge-/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samar157/leetcode_challenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Samar157/leetcode_challenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Samar157/leetcode_challenge-/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Samar157/leetcode_challenge-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

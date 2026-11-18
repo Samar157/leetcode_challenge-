@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Samar157/leetcode_challenge-/tree/master/0258-add-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Samar157/leetcode_challenge-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Samar157/leetcode_challenge-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Samar157/leetcode_challenge-/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Samar157/leetcode_challenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Samar157/leetcode_challenge-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

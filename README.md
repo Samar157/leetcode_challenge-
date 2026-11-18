@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Samar157/leetcode_challenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Counting
 |  |
 | ------- |

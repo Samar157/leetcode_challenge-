@@ -86,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Samar157/leetcode_challenge-/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Samar157/leetcode_challenge-/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Samar157/leetcode_challenge-/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Samar157/leetcode_challenge-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

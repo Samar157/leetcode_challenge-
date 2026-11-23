@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Samar157/leetcode_challenge-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/2243-calculate-digit-sum-of-a-string) |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Samar157/leetcode_challenge-/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Samar157/leetcode_challenge-/tree/master/0226-invert-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Samar157/leetcode_challenge-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

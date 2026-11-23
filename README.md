@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Samar157/leetcode_challenge-/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Samar157/leetcode_challenge-/tree/master/0739-daily-temperatures) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samar157/leetcode_challenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Samar157/leetcode_challenge-/tree/master/0258-add-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Samar157/leetcode_challenge-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Samar157/leetcode_challenge-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
@@ -72,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Samar157/leetcode_challenge-/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

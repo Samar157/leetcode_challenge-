@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Samar157/leetcode_challenge-/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Samar157/leetcode_challenge-/tree/master/0771-jewels-and-stones) |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samar157/leetcode_challenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Samar157/leetcode_challenge-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Samar157/leetcode_challenge-/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Samar157/leetcode_challenge-/tree/master/0771-jewels-and-stones) |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Samar157/leetcode_challenge-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/2243-calculate-digit-sum-of-a-string) |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Samar157/leetcode_challenge-/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Samar157/leetcode_challenge-/tree/master/0739-daily-temperatures) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Samar157/leetcode_challenge-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Samar157/leetcode_challenge-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Samar157/leetcode_challenge-/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Samar157/leetcode_challenge-/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Samar157/leetcode_challenge-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-increasing-decreasing-string](https://github.com/Samar157/leetcode_challenge-/tree/master/1370-increasing-decreasing-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samar157/leetcode_challenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Samar157/leetcode_challenge-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Samar157/leetcode_challenge-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samar157/leetcode_challenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Samar157/leetcode_challenge-/tree/master/0374-guess-number-higher-or-lower) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Samar157/leetcode_challenge-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samar157/leetcode_challenge-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Samar157/leetcode_challenge-/tree/master/0345-reverse-vowels-of-a-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Samar157/leetcode_challenge-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Samar157/leetcode_challenge-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
